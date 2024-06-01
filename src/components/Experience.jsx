@@ -5,7 +5,9 @@ import css from '../assets/css.png';
 import javascript from '../assets/javascript.png';
 import reactImage from '../assets/react.png';
 import nextjs from '../assets/nextjs.png';
-import graphql from '../assets/graphql.png';
+import Mongo from '../assets/Mongo.jpg';
+import nodejs from '../assets/nodejs.png';
+import express from '../assets/express.png';
 import github from '../assets/github.png';
 import tailwind from '../assets/tailwind.png';
 
@@ -49,14 +51,26 @@ const Experience = () => {
     },
     {
       id: 7,
-      src: graphql,
-      title: 'GraphQL',
+      src: Mongo,
+      title: 'MONGO',
       style: 'shadow-pink-400',
     },
     {
       id: 8,
       src: github,
       title: 'GitHub',
+      style: 'shadow-gray-400',
+    },
+    {
+      id: 9,
+      src: nodejs,
+      title: 'NODE JS',
+      style: 'shadow-gray-400',
+    },
+    {
+      id: 10,
+      src: express,
+      title: 'EXPRESS JS',
       style: 'shadow-gray-400',
     },
   ];

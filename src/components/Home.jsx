@@ -20,7 +20,7 @@ const Home = () => {
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Full Stack Developer
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
+          <p className="text-gray-500 py-4 max-w-md ">
             I believe in writing clean, maintainable code that not only works
             but is also easy to understand and extend. My approach to
             development is rooted in continuous learning and collaboration. I
@@ -41,7 +41,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full"
+            className="rounded-2xl mx-auto w-2/3 mr-16"
           />
         </div>
       </div>

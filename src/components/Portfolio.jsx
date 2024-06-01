@@ -1,36 +1,26 @@
 import React from 'react';
-import arrayDestruct from '../assets/portfolio/arrayDestruct.jpg';
-import installNode from '../assets/portfolio/installNode.jpg';
-import navbar from '../assets/portfolio/navbar.jpg';
-import reactParallax from '../assets/portfolio/reactParallax.jpg';
-import reactSmooth from '../assets/portfolio/reactSmooth.jpg';
-import reactWeather from '../assets/portfolio/reactWeather.jpg';
+import pay from '../assets/portfolio/pay.png';
+import burgir from '../assets/portfolio/burgir.png';
+import gemini from '../assets/portfolio/gemini.png';
+import placement from '../assets/portfolio/placement.png';
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: pay,
     },
     {
       id: 2,
-      src: reactParallax,
+      src: burgir,
     },
     {
       id: 3,
-      src: navbar,
+      src: gemini,
     },
     {
       id: 4,
-      src: reactSmooth,
-    },
-    {
-      id: 5,
-      src: installNode,
-    },
-    {
-      id: 6,
-      src: reactWeather,
+      src: placement,
     },
   ];
 

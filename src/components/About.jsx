@@ -13,21 +13,26 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20 ">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Velit,
-          suscipit repellendus quam explicabo debitis eligendi, magni animi quod
-          ducimus expedita dolorum accusantium fugit ipsa autem ad perferendis!
-          Dolorum nulla mollitia asperiores quam. Eos repellat odio perferendis
-          tempore iure nemo nulla rerum ipsam maiores facilis aliquam, earum,
-          reprehenderit unde tenetur itaque.
+          I'm khushi parmar, a undergraduate student with a passion for
+          technology and a drive to make a positive impact through software
+          development. Although I'm just starting my journey in the world of
+          full stack development, I'm eager to learn, grow, and contribute to
+          exciting projects.
         </p>
         <br />
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quo quisquam
-          culpa, ratione perspiciatis esse nobis officiis fuga ullam consectetur
-          quae odio commodi aperiam recusandae amet placeat provident voluptate
-          doloremque maxime alias, similique, repellendus repellat nisi et
-          totam! Repellendus ex at nihil porro, minus enim deleniti odit sit cum
-          dolorem beatae.
+          What excites me most about software development is the opportunity to
+          solve complex problems and create solutions that enhance the lives of
+          others. I love the collaborative nature of coding and thrive in
+          environments where teamwork and innovation are valued.
+        </p>
+
+        <br />
+        <p className="text-xl">
+          I'm on the lookout for opportunities to kickstart my career in full
+          stack development and am eager to contribute my passion and skills to
+          a forward-thinking team. Let's connect and explore how we can create
+          something amazing together!
         </p>
       </div>
     </div>

@@ -52,7 +52,7 @@ const SocialLinks = () => {
       <ul>
         {links.map(
           (
-            { id, child, href, style, download } // Destructuring the object here
+            { id, child, href, style, download } // Destructuring the object
           ) => (
             <li
               key={id}

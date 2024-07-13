@@ -41,7 +41,7 @@ const SocialLinks = () => {
         </>
       ),
       // href: 'portfoliopublicResume.pdf',
-      href: '/Resume.pdf',
+      href: '/ResumeMe.pdf',
       style: 'rounded-br-md',
       download: true,
     },
